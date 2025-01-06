@@ -1,5 +1,4 @@
-# My-school
-Add the new program
+
 import java.util.Scanner;
 public class Abc{
     public static void main(String[] args){
